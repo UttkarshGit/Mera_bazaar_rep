@@ -1,0 +1,41 @@
+[
+    {
+        "image":"./vivo/vivo1.webp",
+        "product_name":"vivo T1X",
+        "color":"Gravity Black",
+        "prize":"11,999",
+        "storage":"4 GB RAM, 64 GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    },
+    {
+        
+        "image":"./vivo/vivo2.webp",
+        "product_name":"vivo T1 5G",
+        "color":"Rainbow",
+        "prize":"11,999",
+        "storage":"4 GB RAM, 64 GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    },
+    {
+        
+        "image":"./vivo/vivo3.webp",
+        "product_name":"vivo T1 44W",
+        "color":"Midnight Galaxy",
+        "prize":"15,999",
+        "storage":"8 GB RAM, 128GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    },
+    {
+        
+        "image":"./vivo/vivo4.webp",
+        "product_name":"vivo T1X",
+        "color":"Gravity Black",
+        "prize":"15,999",
+        "storage":"8 GB RAM, 128 GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    }
+]

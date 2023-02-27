@@ -1,0 +1,15 @@
+.checked {
+    color: orange;
+  }
+
+.fa
+{
+    margin-left: 5px;
+ 
+    
+}
+
+.sticky-div {
+  position: sticky;
+  top: 12%;
+}

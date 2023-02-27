@@ -1,0 +1,30 @@
+[
+    {
+        "image":"./Fasewash/fasewash1.jfif",
+        "product_name":"NIVEA Women Refreshing Face Wash",
+        "prize":"190",
+        "Weight":" 100 ml",
+        " Size":"small"
+    },
+    {
+        "image":"./Fasewash/fasewash2.jfif",
+        "product_name":" NIVEA oil clear",
+        "prize":"100",
+        "Weight":" 90 ml",
+        " Size":"small"
+    },
+    {
+        "image":"./Fasewash/fasewash3.jfif",
+        "product_name":" Oil Away Face Wash For Oily, Acne Prone Skin",
+        "prize":"90",
+        "Weight":" 300 ml",
+        " Size":"small"
+    },
+    {
+        "image":"./Fasewash/fasewash4.jfif",
+        "product_name":" NIVEA oil clear ",
+        "prize":"90",
+        "Weight":" 200 ml",
+        " Size":"medium"
+    }
+]

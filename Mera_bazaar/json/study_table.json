@@ -1,0 +1,30 @@
+[
+    {
+        "image":"./Study_Table/table1.jfif",
+        "product_name":"TRONA Smart Multipurpose Foldable Laptop Table with Cup Holder, Study Table",
+        "prize":"399",
+        "Color":"Black ",
+        "Brand":"Wood"
+    },
+    {
+        "image":"./Study_Table/table2.jfif",
+        "product_name":"Marvel Home Office Table",
+        "prize":"11599",
+        "Color":"White ",
+        "Brand":"Wood"
+    },
+    {
+        "image":"./Study_Table/table3.jfif",
+        "product_name":"Office Study Table",
+        "prize":"1399",
+        "Color":"Blue ",
+        "Brand":"Wood"
+    },
+    {
+        "image":"./Study_Table/table4.jfif",
+        "product_name":"TRONA Smart Multipurpose Foldable Laptop Table with Cup Holder, Study Table",
+        "prize":"1399",
+        "Color":"Black ",
+        "Brand":"Wood"
+    }
+]

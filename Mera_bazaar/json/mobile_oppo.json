@@ -1,0 +1,40 @@
+[
+    {
+        "image":"./oppo/oppo1.webp",
+        "product_name":"OPPO K10",
+        "color":"Blue Flame",
+        "prize":"13990",
+        "storage":"6 GB RAM, 128 GB",
+        "display":"16.74 cm (6.59 inch) Full HD+ Display",
+        "camera":"50MP + 2MP + 2MP | 16MP Front Camera"
+    },
+    {
+        "image":"./oppo/oppo2.webp",
+        "product_name":"OPPO K10 5G",
+        "color":"Midnight Black ",
+        "prize":"17,499",
+        "storage":"8 GB RAM,128 GB",
+        "display":"16.66 cm (6.56 inch) HD+ Display",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    },
+    {
+        
+        "image":"./oppo/oppo3.webp",
+        "product_name":"OPPO F19",
+        "color":"Prism Black ",
+        "prize":"14,490",
+        "storage":"6 GB RAM,128 GB",
+        "display":"16.66 cm (6.56 inch) HD+ Display",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    },
+    {
+        
+        "image":"./oppo/oppo4.webp",
+        "product_name":"OPPO F20",
+        "color":"Prism Black",
+        "prize":"14,490",
+        "storage":"8 GB,128 GB",
+        "display":"16.66 cm (6.56 inch) HD+ Display",
+        "camera":"32MP Front Camera,64MP+8MP+2MP"
+    }
+]

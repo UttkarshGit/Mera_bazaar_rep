@@ -1,0 +1,37 @@
+[
+    {
+        "image":"./T.V/TV1.jfif",
+        "product_name":"Adsun 80 cm (32 inch) HD Ready LED NA TV  (A-3200N)",
+        "color":"Black",
+        "prize":"35,490",
+        "Refresh Rate:":"60 HZ",
+        "Display":"80 cm (32 inch)"
+    },
+    {
+        
+        "image":"/T.V/TV2.jfif",
+        "product_name":"one plus 80 cm (32 inch) HD Ready LED NA TV  (A-3200N)",
+        "color":"Black",
+        "prize":"36,490",
+        "Refresh Rate":"80 HZ",
+        "Display":"80 cm (32 inch)"
+    },
+    {
+        
+        "image":"/T.V/TV3.jfif",
+        "product_name":"SVMSUNG 80 cm (32 inch) HD Ready LED NA TV  (A-3200N)",
+        "color":"Black",
+        "prize":"37,490",
+        "Refresh Rate":"80 HZ",
+        "Display":"80 cm (32 inch)"
+    },
+    {
+        
+        "image":"/T.V/TV4.jfif",
+        "product_name":" MarQ By Flipkart 80 cm (32 inch) HD Ready LED TV",
+        "color":"Black",
+        "prize":"35,490",
+        "Refresh Rate":"80 HZ",
+        "Display":"80 cm (32 inch)"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "image":"./Bed/bed1.jfif",
+        "product_name":"Trevi Kyoto Engineered Wood Queen Bed",
+        "prize":"1990",
+        "Color":"Black ",
+        "Bed Size":"Queen"
+    },
+    {
+        "image":"./Bed/bed1.jfif",
+        "product_name":"Trevi Kyoto Engineered Wood Queen Bed",
+        "prize":"2990",
+        "Color":"Blue ",
+        "Bed Size":"Queen"
+    },
+    {
+        "image":"./Bed/bed1.jfif",
+        "product_name":"Trevi Kyoto Engineered Wood Queen Bed",
+        "prize":"1990",
+        "Color":"White ",
+        "Bed Size":"Queen"
+    },
+    {
+        "image":"./Bed/bed1.jfif",
+        "product_name":" Engineered Wood Queen Box Bed v",
+        "prize":"1990",
+        "Color":"White ",
+        "Bed Size":"Queen"
+    }
+]

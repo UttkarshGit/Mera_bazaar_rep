@@ -1,0 +1,31 @@
+[
+    {
+        "image":"./paste/paste1.jfif",
+        "product_name":"Colagte Maxfresh",
+        "prize":"90",
+        "Weight":" 150 gm",
+        " Size":"small"
+    },
+
+    {
+        "image":"./paste/paste2.jfif",
+        "product_name":" snsodyne",
+        "prize":"190",
+        "Weight":" 250 gm",
+        " Size":"medium"
+    },
+    {
+        "image":"./paste/paste3.jfif",
+        "product_name":"Colagte ",
+        "prize":"60",
+        "Weight":" 50 gm",
+        " Size":"small"
+    },
+    {
+        "image":"./paste/paste4.jfif",
+        "product_name":" close up",
+        "prize":"20",
+        "Weight":" 20 gm",
+        " Size":"small"
+    }
+]

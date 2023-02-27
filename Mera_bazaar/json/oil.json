@@ -1,0 +1,31 @@
+[
+    {
+        
+        "image":"./Oil/oil1.jfif",
+        "product_name":" Kesh King Ayurvedic Hair Oil",
+        "prize":"190",
+        "Weight":" 300 ml",
+        " Size":"medium"
+    },
+    {
+        "image":"./Oil/oil2.jfif",
+        "product_name":" Bajaj Almond Drops Hair Oil",
+        "prize":"90",
+        "Weight":" 300 ml",
+        " Size":"small"
+    },
+    {
+        "image":"./Oil/oil3.jfif",
+        "product_name":" Baby Hair Oil",
+        "prize":"190",
+        "Weight":" 100 ml",
+        " Size":"medium"
+    },
+    {
+        "image":"./Oil/oil4.jfif",
+        "product_name":" coconut hair oil",
+        "prize":"290",
+        "Weight":" 500 ml",
+        " Size":"medium"
+    }
+]

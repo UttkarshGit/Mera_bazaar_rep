@@ -1,0 +1,39 @@
+[
+    {
+        "image":"./redmi_note_9/redmi_note_9_1.png",
+        "product_name":"Redmi Note 9",
+        "color":"white",
+        "prize":"12990",
+        "storage":"4GB RAM,64GB ROM",
+        "display":"16.59 cm (6.53 inch) Full HD+ Display",
+        "camera":"48MP + 8MP + 2MP + 2MP | 13MP Front Camera"
+    },
+    {
+        "image":"./redmi_note_9/redmi_note_9_2.png",
+        "product_name":"Redmi Note 9",
+        "color":"Green",
+        "prize":"12990",
+        "storage":"4GB RAM,64GB ROM",
+        "display":"16.59 cm (6.53 inch) Full HD+ Display",
+        "camera":"48MP + 8MP + 2MP + 2MP | 13MP Front Camera"
+    },
+    {
+        "image":"./redmi_note_9/redmi_note_9_3.png",
+        "product_name":"Redmi Note 9",
+        "color":"Black",
+        "prize":"15990",
+        "storage":"8GB RAM,128GB ROM",
+        "display":"16.59 cm (6.53 inch) Full HD+ Display",
+        "camera":"48MP + 8MP + 2MP + 2MP | 20MP Front Camera"
+    },
+    {
+
+        "image":"./redmi_note_9/redmi_note_9_4.png",
+        "product_name":"Redmi Note 9",
+        "color":"Dark Green",
+        "prize":"15990",
+        "storage":"8GB RAM,128GB ROM",
+        "display":"16.59 cm (6.53 inch) Full HD+ Display",
+        "camera":"48MP + 8MP + 2MP + 2MP | 20MP Front Camera"
+    }
+]

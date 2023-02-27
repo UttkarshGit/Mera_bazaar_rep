@@ -1,0 +1,39 @@
+[
+    {
+        "image":"./realme_mobile/realme_6s_1.jfif",
+        "product_name":"Realme 6S",
+        "color":"Black",
+        "prize":"16000",
+        "storage":"4GB RAM,64GB ROM",
+        "display":"6.5Inches,IPS LCD, 90Hz, 480 nits (typ)",
+        "camera":"48MP+2MP+2MP,16MP front camera"
+    },
+    {
+        "image":"./realme_mobile/realme_6s_1.jfif",
+        "product_name":"Realme 6S",
+        "color":"Voilet",
+        "prize":"16000",
+        "storage":"4GB RAM,64GB ROM",
+        "display":"6.5Inches,IPS LCD, 90Hz, 480 nits (typ)",
+        "camera":"48MP+2MP+2MP,16MP front camera"
+    },
+    {
+        "image":"./realme_mobile/realme_6s_1.jfif",
+        "product_name":"Realme 6S",
+        "color":"blue",
+        "prize":"16000",
+        "storage":"8GB RAM,132GB ROM",
+        "display":"6.5Inches,IPS LCD, 90Hz, 480 nits (typ)",
+        "camera":"48MP+2MP+2MP,16MP front camera"
+    },
+    {
+        "image":"./realme_mobile/realme_6s_1.jfif",
+        "product_name":"Realme 6S",
+        "color":"black",
+        "prize":"16000",
+        "storage":"8GB RAM,132GB ROM",
+        "display":"6.5Inches,IPS LCD, 90Hz, 480 nits (typ)",
+        "camera":"48MP+2MP+2MP,16MP front camera"
+    }
+
+]

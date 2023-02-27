@@ -1,0 +1,31 @@
+[
+    {
+        "image":"./Sofa/sofa1.jfif",
+        "product_name":"Torque Jamestown L Shape LHS sofa set with center table and Puffy Fabric 8 Seater Sofa  (Finish Color - Aqua Blue ",
+        "prize":"29,639",
+        "Capacity":" 6 Seater",
+        "Upholstery Color":"Aqua Blue"
+    },
+    {
+        "image":"./Sofa/sofa2.jfif",
+        "product_name":"Trevi Bliss Fabric 6 Seater Sofa  (Finish Color - Grey & Blue, Knock Down) ",
+        "prize":"39,639",
+        "Capacity":" 8 Seater",
+        "Upholstery Color":"Aqua Red"
+    },
+    {
+        "image":"./Sofa/sofa3.jfif",
+        "product_name":"Artesia Sectional Leatherette Leatherette 3 Seater Sofa  (Finish Color - Black, Pre-assembled) ",
+        "prize":"45,639",
+        "Capacity":" 8 Seater",
+        "Upholstery Color":"Aqua Blue"
+    },
+    {
+        "image":"./Sofa/sofa4.jfif",
+        "product_name":"Artesia Sectional Leatherette Leatherette 3 Seater Sofa  (Finish Color - Black, Pre-assembled) ",
+        "prize":"52,639",
+        "Capacity":" 12 Seater",
+        "Upholstery Color":"Aqua Blue"
+    }
+
+]

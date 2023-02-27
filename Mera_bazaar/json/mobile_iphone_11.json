@@ -1,0 +1,38 @@
+[
+    {
+        "image":"./Iphone/iphone1.jfif",
+        "product_name":"Iphone 11",
+        "color":"White",
+        "prize":"49900",
+        "storage":"4GB RAM, 64GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP"
+    },
+    {
+        "image":"./Iphone/iphone2.jfif",
+        "product_name":"Iphone11pro",
+        "color":"Black",
+        "prize":"89990",
+        "storage":"4GB RAM, 64GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP+2MP"
+    },
+    {
+        "image":"./Iphone/iphone3.jfif",
+        "product_name":"Iphone 12",
+        "color":"Blue",
+        "prize":"59990",
+        "storage":"4GB RAM, 64GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP"
+    },
+    {
+        "image":"./Iphone/iphone4.jfif",
+        "product_name":"Iphone12pro",
+        "color":"White",
+        "prize":"99999",
+        "storage":"8GB RAM, 128GB ROM",
+        "display":"6.5inch,Full Hd",
+        "camera":"16MP Front Camera,64MP+8MP"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        
+        "image":"./chair/chair1.jfif",
+        "product_name":" smarat plastic outdoor chair",
+        "prize":"1500",
+        "Weight":"8 kg",
+        " Size":"medium"
+    },
+    {
+        "image":"./chair/chair2.jfif",
+        "product_name":" high living bravo chair",
+        "prize":"900",
+        "Weight":" 7 kg",
+        " Size":"small"
+    },
+    {
+        "image":"./chair/chair3.jfif",
+        "product_name":" House  of quirk polester chair",
+        "prize":"1900",
+        "Weight":" 10 kg",
+        " Size":"medium"
+    },
+    {
+        "image":"./chair/chair4.jfif",
+        "product_name":"cortina multicoloured abstract chair ",
+        "prize":"2900",
+        "Weight":" 5 kg",
+        " Size":"medium"
+    }
+]

@@ -1,0 +1,1390 @@
+[
+    {
+        "mobile":[
+            {
+                "product_name":"redmi note 9",
+                 "prize":"15000",
+                 "product_image":"./search/mobile/redmi_note_9.jpg",
+                 "color":"blue",
+                 "quantity":"5"
+            },
+            {
+                "product_name":"realme",
+                 "prize":"15000",
+                 "product_image":"./search/mobile/realme.jpg",
+                 "color":"black",
+                 "quantity":"7"
+            },
+            {
+                "product_name":"nokia",
+                 "prize":"12000",
+                 "product_image":"./search/mobile/nokia.jpg",
+                 "color":"black",
+                 "quantity":"6"
+            },
+            {
+                "product_name":"vivo",
+                 "prize":"11000",
+                 "product_image":"./search/mobile/vivo.jpg",
+                 "color":"light blue",
+                 "quantity":"8"
+            },
+            {
+                "product_name":"oppo",
+                 "prize":"13000",
+                 "product_image":"./search/mobile/oppo.jpg",
+                 "color":"gold",
+                 "quantity":"4"
+            }
+
+        ]
+    },
+    {
+        "laptop":[
+            {
+                "product_name":"acer",
+                "prize":"50000",
+                "product_image":"./search/laptop/acer.jpg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"hp",
+                "prize":"60000",
+                "product_image":"./search/laptop/hp.jpg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                "product_name":"Dell",
+                "prize":"51000",
+                "product_image":"./search/laptop/Dell.jpg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                "product_name":"apple",
+                "prize":"61000",
+                "product_image":"./search/laptop/apple.jpg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"lenovo",
+                "prize":"53000",
+                "product_image":"./search/laptop/lenovo.jpg",
+                "color":"black",
+                "quantity":"7"
+            }
+        ]
+    },
+    {
+        "iron":[
+            {
+              
+                "product_name":"Usha",
+                "prize":"410",
+                "product_image":"./search/iron/usha.jpg",
+                "color":"white",
+                "quantity":"6"  
+            },
+            {
+                
+                "product_name":"bajaj",
+                "prize":"530",
+                "product_image":"./search/iron/bajaj.jpg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"philips",
+                "prize":"600",
+                "product_image":"./search/iron/philips.jpg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"panasonic",
+                "prize":"640",
+                "product_image":"./search/iron/panasonic.jpg",
+                "color":"blue",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"crompton",
+                "prize":"499",
+                "product_image":"./search/iron/crompton",
+                "color":"white",
+                "quantity":"4"
+            }
+        ]
+    },
+    {
+        "watch":[
+            {
+             
+                "product_name":"lenovo",
+                "prize":"599",
+                "product_image":"./search/watch/lenovo.jpg",
+                "color":"black",
+                "quantity":"7"   
+            },
+            {
+                
+                "product_name":"timex",
+                "prize":"500",
+                "product_image":"./search/watch/timex.jpg",
+                "color":"gold",
+                "quantity":"9"
+            },
+            {
+                
+                "product_name":"fastrack",
+                "prize":"530",
+                "product_image":"./search/watch/fastrack.jpg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"rolex",
+                "prize":"5000",
+                "product_image":"./search/watch/rolex.jpg",
+                "color":"gold",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"titan",
+                "prize":"800",
+                "product_image":"./search/watch/titan.jpg",
+                "color":"silver",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "purse":[
+            {
+                "product_name":"Gucci",
+                "prize":"800",
+                "product_image":"./search/purse/gucci.jpg",
+                "color":"brown",
+                "quantity":"7"
+            },
+            {
+                "product_name":"chanel",
+                "prize":"890",
+                "product_image":"./search/purse/chanel",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"marc",
+                "prize":"1200",
+                "product_image":"./search/purse/marc.jpg",
+                "color":"black",
+                "quantity":"9"
+            },
+            {
+                "product_name":"Dior",
+                "prize":"1000",
+                "product_image":"./search/purse/dior.jpg",
+                "color":"white",
+                "quantity":"8"
+            },
+            {
+                "product_name":"hermes",
+                "prize":"1200",
+                "product_image":"./search/purse/hermes.jpg",
+                "color":"red",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "bag":[
+            {
+                "product_name":"safari",
+                "prize":"800",
+                "product_image":"./search/bag/safari.jpg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"american tourister",
+                "prize":"1200",
+                "product_image":"./search/bag/american tourister.jpg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"hp",
+                "prize":"2300",
+                "product_image":"./search/bag/hp.jpg",
+                "color":"black",
+                "quantity":"9"
+            },
+            {
+                "product_name":"lenovo",
+                "prize":"600",
+                "product_image":"./search/bag/lenovo.jpg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                "product_name":"Dell",
+                "prize":"800",
+                "product_image":"./search/bag/Dell.jpg",
+                "color":"black",
+                "quantity":"4"
+            }
+        ]
+    },
+    {
+        "shirt":[
+            {
+              
+                "product_name":"peter england",
+                "prize":"400",
+                "product_image":"./search/shirt/peter england.jpg",
+                "color":"blue",
+                "quantity":"8"  
+            },
+            {
+                
+                "product_name":"raymond",
+                "prize":"890",
+                "product_image":"./search/shirt/raymond.jpg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"black barry",
+                "prize":"1200",
+                "product_image":"./search/shirt/black barry.jpg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"pantaloons",
+                "prize":"450",
+                "product_image":"./search/shirt/pantaloon.jpg",
+                "color":"red",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"allen solly",
+                "prize":"900",
+                "product_image":"./search/shirt/allen solly.jpg",
+                "color":"yello",
+                "quantity":"7"
+            }
+        ]
+    },
+    {
+       "pant":[
+            {
+              
+                "product_name":"highlander",
+                "prize":"700",
+                "product_image":"./search/pant/highlander.jpg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"raymond",
+                "prize":"500",
+                "product_image":"./search/pant/raymond.jpg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"black barry",
+                "prize":"800",
+                "product_image":"./search/pant/black barry.jpg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"allen solly",
+                "prize":"900",
+                "product_image":"./search/pant/allen solly.jpg",
+                "color":"white",
+                "quantity":"4"
+            },
+            {
+                
+                "product_name":"peter england",
+                "prize":"1200",
+                "product_image":"./search/pant/peter england.jpg",
+                "color":"white",
+                "quantity":"6"
+            }
+       ] 
+    },
+    {
+        "jeans":[
+            {
+                
+                "product_name":"highlander",
+                "prize":"780",
+                "product_image":"./search/jeans/highlander",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"raymond",
+                "prize":"560",
+                "product_image":"./search/jeans/raymond.jpg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"black barry",
+                "prize":"800",
+                "product_image":"./search/jeans/black barry.jpg",
+                "color":"blue",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"allen solly",
+                "prize":"900",
+                "product_image":"./search/jeans/allen solly.jpg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"peter england",
+                "prize":"670",
+                "product_image":"./search/jeans/peter england.jpg",
+                "color":"blue",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "t-shirt":[
+            {
+                
+                "product_name":"allen solly",
+                "prize":"450",
+                "product_image":"./search/t shirt/allen solly",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"highlander",
+                "prize":"890",
+                "product_image":"./search/t shirt/highlander",
+                "color":"blue",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"peter england",
+                "prize":"480",
+                "product_image":"./search/t shirt/peter england",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"black barry",
+                "prize":"1200",
+                "product_image":"./search/t shirt/black barry.jpg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"raymond",
+                "prize":"980",
+                "product_image":"./search/t shirt/raymond.jpg",
+                "color":"black",
+                "quantity":"9"
+            }
+        ]
+    },
+    {
+        "shoes":[
+            {
+                
+                "product_name":"bata",
+                "prize":"900",
+                "product_image":"./search/shoes/bata.jpg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"fila",
+                "prize":"1200",
+                "product_image":"./search/shoes/fila.jpg",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"bottel veneta",
+                "prize":"780",
+                "product_image":"./search/shoes/bottel veneta.jpg",
+                "color":"blue",
+                "quantity":"9"
+            },
+            {
+                
+                "product_name":"boston",
+                "prize":"980",
+                "product_image":"./search/shoes/boston.jpg",
+                "color":"pinck",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"Gucci",
+                "prize":"990",
+                "product_image":"./search/shoes/gucci.jpg",
+                "color":"black",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "sleeper":[
+            {
+              
+                "product_name":"Gucci",
+                "prize":"300",
+                "product_image":"./search/sleeper/gucci.jpg",
+                "color":"black",
+                "quantity":"5"  
+            },
+            {
+                
+                "product_name":"sparx",
+                "prize":"270",
+                "product_image":"./search/sleeper/sparx.jpg",
+                "color":"sparx",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"bata",
+                "prize":"300",
+                "product_image":"./search/sleeper/bata.jpg",
+                "color":"brown",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"fila",
+                "prize":"400",
+                "product_image":"./search/sleeper/fila.jpg",
+                "color":"white",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"nike",
+                "prize":"340",
+                "product_image":"./search/sleeper/nike.jpg",
+                "color":"black",
+                "quantity":"5"
+            }
+        ]
+    },
+    {
+        "phone-cover":[
+            {
+                
+                "product_name":"realme",
+                "prize":"120",
+                "product_image":"./search/phone cover/realme.jpg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"vivo",
+                "prize":"200",
+                "product_image":"./search/phone cover/vivo.jpg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"nokia",
+                "prize":"130",
+                "product_image":"./search/phone cover/nokia.jpg",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"oppo",
+                "prize":"210",
+                "product_image":"./search/phone cover/oppo.jpg",
+                "color":"brown",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"apple",
+                "prize":"200",
+                "product_image":"./search/phone cover/apple.jpg",
+                "color":"black",
+                "quantity":"4"
+            }
+        ]
+    },
+    {
+        "face wash":[
+            {
+                
+                "product_name":"Nivea man",
+                "prize":"120",
+                "product_image":"./search/fashwash/Nivea man.jpeg",
+                "color":"blue",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"Himalaya",
+                "prize":"90",
+                "product_image":"./search/fashwash/Himalaya.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"Gernier",
+                "prize":"125",
+                "product_image":"./search/fashwash/Gernier.jpeg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"Clean clear",
+                "prize":"80",
+                "product_image":"./search/fashwash/clean clear.jpeg",
+                "color":"blue",
+                "quantity":"4"
+            },
+            {
+                
+                "product_name":"simple",
+                "prize":"100",
+                "product_image":"./search/fashwash/simple.jpeg",
+                "color":"green",
+                "quantity":"7"
+            }
+        ]
+    },
+    {
+        "mobile charger":[
+            {
+                
+                "product_name":"realme",
+                "prize":"230",
+                "product_image":"./search/mobile charger/realme.jpeg",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"oppo",
+                "prize":"200",
+                "product_image":"./search/mobile charger/oppo.jpeg",
+                "color":"white",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"vivo",
+                "prize":"320",
+                "product_image":"./search/mobile charger/vivo.jpeg",
+                "color":"white",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"apple",
+                "prize":"300",
+                "product_image":"./search/mobile charger/apple.jpeg",
+                "color":"white",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"nokia",
+                "prize":"210",
+                "product_image":"./search/mobile charger/Nokia.jpeg",
+                "color":"black",
+                "quantity":"4"
+            }
+        ]
+    },
+    {
+        "data cable":[
+            {
+                
+                "product_name":"realme",
+                "prize":"90",
+                "product_image":"./search/data cable/realme.jpeg",
+                "color":"white",
+                "quantity":"9"
+            },
+            {
+                
+                "product_name":"vivo",
+                "prize":"50",
+                "product_image":"./search/data cable/vivo.jpeg",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"apple",
+                "prize":"200",
+                "product_image":"./search/data cable/apple.jpeg",
+                "color":"black",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"oppo",
+                "prize":"100",
+                "product_image":"./search/data cable/oppo.jpeg",
+                "color":"white",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"Nokia",
+                "prize":"40",
+                "product_image":"./search/data cable/Nokia.jpeg",
+                "color":"black",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "earphone":[
+            {
+                
+                "product_name":"boat",
+                "prize":"1000",
+                "product_image":"./search/earphone/boat.jpeg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"vivo",
+                "prize":"560",
+                "product_image":"./search/earphone/vivo.jpeg",
+                "color":"white",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"nokia",
+                "prize":"600",
+                "product_image":"./search/earphone/nokia.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"oppo",
+                "prize":"800",
+                "product_image":"./search/earphone/oppo.jpeg",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"apple",
+                "prize":"1200",
+                "product_image":"./search/earphone/apple.jpeg",
+                "color":"white",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "airpod":[
+            {
+                
+                "product_name":"realme",
+                "prize":"700",
+                "product_image":"./search/earpad/realme.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"nokia",
+                "prize":"500",
+                "product_image":"./search/earpad/nokia.jpeg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"vivo",
+                "prize":"100",
+                "product_image":"./search/earpad/vivo.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"jbl",
+                "prize":"1000",
+                "product_image":"./search/earpad/jbl.jpeg",
+                "color":"black",
+                "quantity":"4"
+            },
+            {
+                
+                "product_name":"apple",
+                "prize":"1200",
+                "product_image":"./search/earpad/apple.jpeg",
+                "color":"white",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "headphone":[
+            {
+                
+                "product_name":"boat",
+                "prize":"1200",
+                "product_image":"./search/headphone/boat.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"realme",
+                "prize":"1500",
+                "product_image":"./search/headphone/realme.jpeg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"apple",
+                "prize":"2500",
+                "product_image":"./search/headphone/apple.jpeg",
+                "color":"white",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"boult",
+                "prize":"1200",
+                "product_image":"./search/headphone/boult.jpeg",
+                "color":"black",
+                "quantity":"9"
+            },
+            {
+                
+                "product_name":"nokia",
+                "prize":"1900",
+                "product_image":"./search/headphone/nokia.jpeg",
+                "color":"black",
+                "quantity":"6"
+            }
+        ]
+    },
+    {
+        "handwash":[
+            {
+                
+                "product_name":"dettol",
+                "prize":"1200",
+                "product_image":"./search/handwash/dettol.jpeg",
+                "color":"green",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"lifebuoy",
+                "prize":"90",
+                "product_image":"./search/handwash/lifebuoy.jpeg",
+                "color":"red",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"lux",
+                "prize":"100",
+                "product_image":"./search/handwash/lux.jpeg",
+                "color":"pinck",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"sevlon",
+                "prize":"120",
+                "product_image":"./search/handwash/savlon.jpeg",
+                "color":"white",
+                "quantity":"9"
+            },
+            {
+                
+                "product_name":"bio",
+                "prize":"100",
+                "product_image":"./search/handwash/bio.jpeg",
+                "color":"black",
+                "quantity":"4"
+            }
+        ]
+    },
+    {
+        "saree":[
+            {
+                
+                "product_name":"vimal",
+                "prize":"1200",
+                "product_image":"./search/saree/vimal.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                
+                "product_name":"raymond",
+                "prize":"1800",
+                "product_image":"./search/saree/raymond.jpeg",
+                "color":"red",
+                "quantity":"7"
+            },
+            {
+                
+                "product_name":"bridal model",
+                "prize":"5000",
+                "product_image":"./search/saree/bridal model.jpeg",
+                "color":"red",
+                "quantity":"5"
+            },
+            {
+                
+                "product_name":"Banarasi saree",
+                "prize":"4000",
+                "product_image":"./search/saree/banarasi.jpeg",
+                "color":"blue",
+                "quantity":"8"
+            },
+            {
+                
+                "product_name":"Bomkai",
+                "prize":"2000",
+                "product_image":"./search/saree/Bomkai.jpeg",
+                "color":"yello",
+                "quantity":"4"
+            }
+        ]
+    },
+    {
+        "bed sheet":[
+            {
+                 
+                "product_name":"chanel",
+                "prize":"1200",
+                "product_image":"./search/shoop/chanel.jpeg",
+                "color":"pinck",
+                "quantity":"4"
+            },
+            {
+                 
+                "product_name":"Hilton",
+                "prize":"1600",
+                "product_image":"./search/shoop/hilton.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                 
+                "product_name":"Blue",
+                "prize":"1400",
+                "product_image":"./search/shoop/blue.jpeg",
+                "color":"white",
+                "quantity":"7"
+            },
+            {
+                 
+                "product_name":"all",
+                "prize":"1800",
+                "product_image":"./search/shoop/all.jpeg",
+                "color":"blue",
+                "quantity":"6"
+            },
+            {
+                 
+                "product_name":"westin",
+                "prize":"1900",
+                "product_image":"./search/shoop/westin.jpeg",
+                "color":"blue",
+                "quantity":"9"
+            }
+        ]
+    },
+    {
+        "pillow":[
+            {
+                 
+                "product_name":"westin",
+                "prize":"120",
+                "product_image":"./search/pillow/westin.jpeg",
+                "color":"white",
+                "quantity":"4"
+            },
+            {
+                 
+                "product_name":"all",
+                "prize":"100",
+                "product_image":"./search/pillow/all.jpeg",
+                "color":"white",
+                "quantity":"5"
+            },
+            {
+                 
+                "product_name":"Blue",
+                "prize":"200",
+                "product_image":"./search/pillow/blue.jpeg",
+                "color":"white",
+                "quantity":"6"
+            },
+            {
+                 
+                "product_name":"Hilton",
+                "prize":"900",
+                "product_image":"./search/pillow/hilton.jpeg",
+                "color":"white",
+                "quantity":"7"
+            },
+            {
+                 
+                "product_name":"life",
+                "prize":"500",
+                "product_image":"./search/pillow/life.jpeg",
+                "color":"blue",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "suit":[
+            {
+                 
+                "product_name":"lee",
+                "prize":"4200",
+                "product_image":"./search/suit/lee.jpeg",
+                "color":"black",
+                "quantity":"4"
+            },
+            {
+                 
+                "product_name":"roar",
+                "prize":"1200",
+                "product_image":"./search/suit/roar.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                 
+                "product_name":"Boss",
+                "prize":"3200",
+                "product_image":"./search/suit/boss.jpeg",
+                "color":"blue",
+                "quantity":"6"
+            },
+            {
+                 
+                "product_name":"chanel",
+                "prize":"1450",
+                "product_image":"./search/suit/chanel.jpeg",
+                "color":"blue",
+                "quantity":"7"
+            },
+            {
+                "product_name":"hermes",
+                "prize":"4200",
+                "product_image":"./search/shuit/hermes.jpeg",
+                "color":"white",
+                "quantity":"8" 
+            }
+        ]
+    },
+    {
+        "top":[
+            {
+                "product_name":"parada",
+                "prize":"1500",
+                "product_image":"./search/top/prada.jpeg",
+                "color":"blue",
+                "quantity":"5"
+            },
+            {
+                "product_name":"coach",
+                "prize":"1100",
+                "product_image":"./search/top/coach.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"Dior",
+                "prize":"1300",
+                "product_image":"./search/top/dior.jpeg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                "product_name":"chanel",
+                "prize":"1400",
+                "product_image":"./search/top/chanel",
+                "color":"blue",
+                "quantity":"8"
+            },
+            {
+                "product_name":"lee",
+                "prize":"1200",
+                "product_image":"./search/top/lee.jpeg",
+                "color":"red",
+                "quantity":"9"
+            }
+        ]
+    },
+    {
+        "nighty":[
+            {
+                "product_name":"lee",
+                "prize":"1200",
+                "product_image":"./search/nighty/lee.jpeg",
+                "color":"pinck",
+                "quantity":"4"
+            },
+            {
+                "product_name":"trundz",
+                "prize":"1300",
+                "product_image":"./search/nighty/trundz.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"generic",
+                "prize":"1400",
+                "product_image":"./search/nighty/generic.jpeg",
+                "color":"pinck",
+                "quantity":"6"
+            },
+            {
+                "product_name":"mudrika",
+                "prize":"1200",
+                "product_image":"./search/nighty/mudrika.jpeg",
+                "color":"yello",
+                "quantity":"7"
+            },
+            {
+                "product_name":"Av2",
+                "prize":"1600",
+                "product_image":"./search/nighty/Av2.jpeg",
+                "color":"white",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "Ball":[
+            {
+                "product_name":"kookaburra",
+                "prize":"12000",
+                "product_image":"./search/ball/kookaburra.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"SG",
+                "prize":"5000",
+                "product_image":"./search/ball/SG.jpeg",
+                "color":"white",
+                "quantity":"7"
+            },
+            {
+                "product_name":"cosco",
+                "prize":"600",
+                "product_image":"./search/ball/cosco.jpeg",
+                "color":"green",
+                "quantity":"8"
+            },
+            {
+                "product_name":"jaspo",
+                "prize":"1200",
+                "product_image":"./search/ball/jaspo.jpeg",
+                "color":"red",
+                "quantity":"5"
+            },
+            {
+                "product_name":"DSC",
+                "prize":"400",
+                "product_image":"./search/ball/DSC.jpeg",
+                "color":"yello",
+                "quantity":"9"
+            }
+        ]
+    },
+    {
+        "Bat":[
+            {
+                "product_name":"ss",
+                "prize":"4000",
+                "product_image":"./search/shoop/ss.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"mrf",
+                "prize":"5000",
+                "product_image":"./search/shoop/mrf.jpeg",
+                "color":"red",
+                "quantity":"5"
+            },
+            {
+                "product_name":"addidas",
+                "prize":"6000",
+                "product_image":"./search/shoop/addidas.jpeg",
+                "color":"red",
+                "quantity":"6"
+            },
+            {
+                "product_name":"gm",
+                "prize":"5600",
+                "product_image":"./search/shoop/gm.jpeg",
+                "color":"blue",
+                "quantity":"7"
+            },
+            {
+                "product_name":"Reebok",
+                "prize":"6200",
+                "product_image":"./search/shoop/reebok.jpeg",
+                "color":"blue",
+                "quantity":"4"
+            }
+           
+        ]
+    },
+    {
+        "camera":[
+            {
+                "product_name":"sony",
+                "prize":"26000",
+                "product_image":"./search/camera/sony.jpeg",
+                "color":"black",
+                "quantity":"4"
+            },
+            {
+                "product_name":"canon",
+                "prize":"30000",
+                "product_image":"./search/camera/canon.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"nikon",
+                "prize":"42000",
+                "product_image":"./search/camera/nikon.jpeg",
+                "color":"red",
+                "quantity":"6"
+            },
+            {
+                "product_name":"panasonic",
+                "prize":"32000",
+                "product_image":"./search/camera/panasonic.jpeg",
+                "color":"white",
+                "quantity":"7"
+            },
+            {
+                "product_name":"samsung",
+                "prize":"32000",
+                "product_image":"./search/camera/samsung.jpeg",
+                "color":"black",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "speaker":[
+            {
+                "product_name":"Boss",
+                "prize":"11000",
+                "product_image":"./search/speaker/boss.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"sony",
+                "prize":"8000",
+                "product_image":"./search/speaker/sony.jpeg",
+                "color":"blue",
+                "quantity":"7"
+            },
+            {
+                "product_name":"jbl",
+                "prize":"12000",
+                "product_image":"./search/speaker/jbl.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"kef",
+                "prize":"10000",
+                "product_image":"./search/speaker/kef.jpeg",
+                "color":"white",
+                "quantity":"4"
+            },
+            {
+                "product_name":"pioneer",
+                "prize":"18000",
+                "product_image":"./search/speaker/pioneer.jpeg",
+                "color":"black",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "cap":[
+            {
+                "product_name":"DIME",
+                "prize":"1200",
+                "product_image":"./search/cap/dima.jpeg",
+                "color":"white",
+                "quantity":"4"
+            },
+            {
+                "product_name":"stetson",
+                "prize":"2000",
+                "product_image":"./search/cap/stetson.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"poten",
+                "prize":"2200",
+                "product_image":"./search/cap/poten.jpeg",
+                "color":"green",
+                "quantity":"6"
+            },
+            {
+                "product_name":"puma",
+                "prize":"1600",
+                "product_image":"./search/cap/puma.jpeg",
+                "color":"red",
+                "quantity":"7"
+            },
+            {
+                "product_name":"nike",
+                "prize":"1800",
+                "product_image":"./search/cap/nike.jpeg",
+                "color":"yello",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "mouse":[
+            {
+                "product_name":"hp",
+                "prize":"1600",
+                "product_image":"./search/mouse/hp.jpeg",
+                "color":"black",
+                "quantity":"4"
+            },
+            {
+                "product_name":"Dell",
+                "prize":"1200",
+                "product_image":"./search/mouse/dell.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"lenovo",
+                "prize":"1100",
+                "product_image":"./search/mouse/lenovo.jpeg",
+                "color":"black",
+                "quantity":"6"
+            },
+            {
+                "product_name":"logitech",
+                "prize":"600",
+                "product_image":"./search/mouse/logitech.jpeg",
+                "color":"blue",
+                "quantity":"7"
+            },
+            {
+                "product_name":"portronics",
+                "prize":"900",
+                "product_image":"./search/mouse/portronic.jpeg",
+                "color":"white",
+                "quantity":"8"
+            }
+        ]
+    },
+    {
+        "Tv":[
+            {
+                "product_name":"LG",
+                "prize":"20000",
+                "product_image":"./search/tv/lg.jpeg",
+                "color":"black",
+                "quantity":"4"
+            },
+            {
+                "product_name":"Mi",
+                "prize":"4000",
+                "product_image":"./search/tv/mi.jpeg",
+                "color":"black",
+                "quantity":"5"
+            },
+            {
+                "product_name":"sony",
+                "prize":"32000",
+                "product_image":"./search/tv/sony.jpeg",
+                "color":"white",
+                "quantity":"6"
+            },
+            {
+                "product_name":"samsung",
+                "prize":"35000",
+                "product_image":"./search/tv/samsung.jpeg",
+                "color":"black",
+                "quantity":"7"
+            },
+            {
+                "product_name":"philips",
+                "prize":"32000",
+                "product_image":"./search/tv/philips.jpeg",
+                "color":"black",
+                "quantity":"4"
+            }
+        ]
+    }
+]

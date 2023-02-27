@@ -1,0 +1,37 @@
+[
+    {
+        "image":"./Refrigerator/refrigerator1.jpg ",
+        "product_name":" Whirlpool Double Door Refrigerator NEO",
+        "color":"Black",
+        "prize":"12990",
+        "Refrigerator Type":"Top Mount"
+        
+        
+    },
+    {
+        
+        "image":"./Refrigerator/refrigerator2.jpg",
+        "product_name":"Godrej 185 L Direct Cool Single Door 2 Star Refrigerator  (Pearl Purple, RD EDGE 200B 23 WRF PL PR)",
+        "color":"Navy Blue",
+        "prize":"15990",
+       "Refrigerator Type":"Top Mount"
+        
+    },
+        {
+            "image":"./Refrigerator/refrigerator3.jpg",
+            "product_name":"SAMSUNG 192 L Direct Cool Single Door 2 Star Refrigerator",
+            "color":"Gray Silver",
+            "prize":"15990",
+            "Refrigerator Type":"Top Mount"
+            
+            
+        },
+        {
+            "image":"./Refrigerator/refrigerator4.jpg",
+            "product_name":"CANDY 170 L Direct Cool Single Door 2 Star Refrigerator",
+            "color":"Moon Silver,",
+            "prize":"15990",
+            "Refrigerator Type":"Top Mount"
+            
+        }
+]

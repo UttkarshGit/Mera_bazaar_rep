@@ -1,0 +1,30 @@
+[
+    {
+        "image":"./c/C_book_1.jfif",
+        "product_name":"C Programming Language",
+        "pages":" 119",
+        "prize":"600",
+        "language":"English "  
+    },
+    {
+        "image":"./c/C_book_2.jfif",
+        "product_name":"C Programming Language",
+        "pages":" 130",
+        "prize":"600",
+        "language":"English " 
+    },
+    {
+        "image":"./c/C_book_3.jfif",
+        "product_name":"C Programming Language",
+        "pages":"119 ",
+        "prize":"600",
+        "language":"English " 
+    },
+    {
+        "image":"./c/C_book_4.jfif",
+        "product_name":"C Programming Language",
+        "pages":"119 ",
+        "prize":"600",
+        "language":"English" 
+    }
+]

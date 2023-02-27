@@ -1,0 +1,296 @@
+[
+    {
+        "image":"./Trend/oneplus.jpg",
+        "product_name":"oneplus",
+        "prize":"29,000",
+        "Color":"sky blue ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/almonds.jpg",
+        "product_name":"almonds",
+        "prize":"290",
+        "color":"50gm ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/camera.jpg",
+        "product_name":"camera",
+        "prize":"29000",
+        "color":"black ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/chair.jpg",
+        "product_name":"chair",
+        "prize":"1000",
+        "color":"red ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/facewash.jpg",
+        "product_name":"facewash",
+        "prize":"290",
+        "color":"white ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/sofa.jpg",
+        "product_name":"sofa",
+        "prize":"29000",
+        "color":"red ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/watch.jpg",
+        "product_name":"watch",
+        "prize":"29000",
+        "color":"white ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/tablelamp.jpg",
+        "product_name":"tablelamp",
+        "prize":"1200",
+        "color":"yellow ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/door.jpg",
+        "product_name":"door",
+        "prize":"2900",
+        "color":"red ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/java.jpg",
+        "product_name":"java",
+        "prize":"500",
+        "color":"black ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/charger.jpg",
+        "product_name":"charger",
+        "prize":"290",
+        "color":"white ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/colgate.jpg",
+        "product_name":"colgate",
+        "prize":"100",
+        "color":"white ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/horlicks.jpg",
+        "product_name":"horlicks",
+        "prize":"290",
+        "color":"brown",
+        "rand":0
+    },
+    {
+        "image":"./Trend/butter.jpg",
+        "product_name":"butter",
+        "prize":"490",
+        "color":"yellow ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/oil.jpg",
+        "product_name":"hair oil",
+        "prize":"90",
+        "color":"yellow ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/cbooks.jpg",
+        "product_name":"books",
+        "prize":"490",
+        "color":"white ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/shirt.jpg",
+        "product_name":"shirt",
+        "prize":"590",
+        "color":"black ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/sweatshirt.jpg",
+        "product_name":"sweatshirt",
+        "prize":"690",
+        "color":"black ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/shoes.jpg",
+        "product_name":"shoes",
+        "prize":"1290",
+        "color":"white ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/cap.jpg",
+        "product_name":"cap",
+        "prize":"290",
+        "color":"black ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/perfume.jpg",
+        "product_name":"perfume",
+        "prize":"1290",
+        "color":"red",
+        "rand":2
+    },
+    {
+        "image":"./Trend/cream.jpg",
+        "product_name":"cream",
+        "prize":"290",
+        "color":"white ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/bat.jpg",
+        "product_name":"bat",
+        "prize":"2190",
+        "color":"white ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/boll.jpg",
+        "product_name":"boll",
+        "prize":"690",
+        "Color":"black and white ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/bottle.jpg",
+        "product_name":"bottle",
+        "prize":"890",
+        "color":"color ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/plant.jpg",
+        "product_name":"plant",
+        "prize":"290",
+        "color":"green ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/flower.jpg",
+        "product_name":"flower",
+        "prize":"290",
+        "color":"red",
+        "rand":2
+    },
+    {
+        "image":"./Trend/bag.jpg",
+        "product_name":"bag",
+        "prize":"1290",
+        "color":"black ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/bucket.jpg",
+        "product_name":"bucket",
+        "prize":"290",
+        "color":"Red ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/fan.jpg",
+        "product_name":"fan",
+        "prize":"1290",
+        "color":"black ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/pant.jpg",
+        "product_name":"pant",
+        "prize":"1290",
+        "color":"blue ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/clock.jpg",
+        "product_name":"clock",
+        "prize":"1290",
+        "color":"black ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/mirror.jpg",
+        "product_name":"mirror",
+        "prize":"1390",
+        "color":"tranparnte ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/shoap.jpg",
+        "product_name":"shaop",
+        "prize":"90",
+        "color":"white ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/laptop.jpg",
+        "product_name":"laptop",
+        "prize":"122290",
+        "color":"black",
+        "rand":1
+    },
+    {
+        "image":"./Trend/chain.jpg",
+        "product_name":"chain",
+        "prize":"22290",
+        "color":"gold ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/slippers.jpg",
+        "product_name":"slippers",
+        "prize":"290",
+        "color":"black and white ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/dryor.jpg",
+        "product_name":"dryor",
+        "prize":"800",
+        "color":"black ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/board.jpg",
+        "product_name":"board",
+        "prize":"1290",
+        "color":"green ",
+        "rand":2
+    },
+    {
+        "image":"./Trend/iphone.jpg",
+        "product_name":"iphone",
+        "prize":"75000",
+        "color":"black ",
+        "rand":0
+    },
+    {
+        "image":"./Trend/pellow.jpg",
+        "product_name":"pellow",
+        "prize":"690",
+        "color":"white ",
+        "rand":1
+    },
+    {
+        "image":"./Trend/bedshit.jpg",
+        "product_name":"bedshit",
+        "prize":"1290",
+        "color":"white ",
+        "rand":2
+    }
+]

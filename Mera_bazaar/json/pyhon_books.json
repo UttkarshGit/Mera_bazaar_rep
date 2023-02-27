@@ -1,0 +1,30 @@
+[
+    {
+        "image":"./python_books/python1.jfif",
+        "product_name":"python pragramming",
+        "pages":" 119",
+        "prize":"700",
+        "language":"English " 
+    },
+    {
+        "image":"./python_books/python1.jfif",
+        "product_name":"python pragramming",
+        "pages":" 119",
+        "prize":"600",
+        "language":"English " 
+    },
+    {
+        "image":"./python_books/python1.jfif",
+        "product_name":"python pragramming",
+        "pages":" 119",
+        "prize":"800",
+        "language":"English "
+    },
+{
+    "image":"./python_books/python1.jfif",
+    "product_name":"python pragramming",
+    "pages":" 119",
+    "prize":"900",
+    "language":"English "
+}
+]

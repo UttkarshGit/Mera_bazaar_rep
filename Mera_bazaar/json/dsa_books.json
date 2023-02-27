@@ -1,0 +1,30 @@
+[
+    {
+        "image":"./Dsa_books/dsa1.jfif",
+        "product_name":"Dsa pragramming",
+        "pages":" 119", 
+        "prize":"500",
+        "language":"English "
+    },
+    {
+        "image":"./Dsa_books/dsa2.jfif",
+        "product_name":"Dsa pragramming",
+        "pages":" 119", 
+        "prize":"500",
+        "language":"English "
+    },
+    {
+        "image":"./Dsa_books/dsa3.jfif",
+        "product_name":"Dsa pragramming",
+        "pages":" 119", 
+        "prize":"500",
+        "language":"English "
+    },
+    {
+        "image":"./Dsa_books/dsa4.jfif",
+        "product_name":"Dsa pragramming",
+        "pages":" 119", 
+        "prize":"500",
+        "language":"English "
+    }
+]

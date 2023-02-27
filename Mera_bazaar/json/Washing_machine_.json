@@ -1,0 +1,36 @@
+[
+    {
+        
+        "image":"./Washing_Machine/Washing_Machine1.jfif",
+        "product_name":"SAMSUNG 6 kg 5 Star With Hygiene Steam and Ceramic Heater Fully Automatic",
+        "color":"White",
+        "prize":"25,490",
+        "Type":"Automatic",
+        "Weight":"6 kg"
+    },
+    {
+        
+        "image":"./Washing_Machine/Washing_Machine2.jfif",
+        "product_name":"SAMSUNG 8 kg Fully Automatic Front Load Black",
+        "color":"White",
+        "prize":"34,109",
+        "Type":"Automatic",
+        "Weight":"8 kg"
+    },
+    {
+        "image":"./Washing_Machine/Washing_Machine3.jfif",
+        "product_name":"SAMSUNG 8 kg Fully Automatic Front Load with In-built Heater Black",
+        "color":"White",
+        "prize":"41,499",
+        "Type":"Automatic",
+        "Weight":"8 kg"
+    },
+    {
+        "image":"./Washing_Machine/Washing_Machine4.jfif",
+        "product_name":"SAMSUNG 8 kg 5 Star",
+        "color":"White",
+        "prize":"45,499",
+        "Type":"Automatic",
+        "Weight":"6 kg"
+    }
+]

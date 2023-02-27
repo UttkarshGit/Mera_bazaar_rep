@@ -1,0 +1,35 @@
+[
+    {
+        "image":"./Watch/watch1.jfif",
+        "product_name":"Armani exchange Men Active Round Black Watches",
+        "color":"silver",
+        "prize":"1290",
+        "Type":"Digital watch"
+        
+    },
+    {
+        "image":"./Watch/watch2.jfif",
+        "product_name":"32-BK-CK Analogue Display with Exclusive Design Analog Watch",
+        "color":"Black",
+        "prize":"1500",
+        "Type":"Digital watch"
+        
+    },
+    {
+        "image":"./Watch/watch3.jfif",
+        "product_name":"Casio Watch",
+        "color":"black",
+        "prize":"7990",
+        "Type":"Digital watch"
+       
+    },
+    {
+        "image":"./Watch/watch2.jfif",
+        "product_name":"Fastrack",
+        "color":"White",
+        "prize":"15990",
+        "Type":"Digital watch"
+        
+    }
+    
+]
